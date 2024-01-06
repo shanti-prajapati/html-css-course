@@ -1,0 +1,51 @@
+*{
+    font-family: Arial;
+    margin-bottom: 0;
+}
+
+.text{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.location{
+    display: block;
+    width:350px;
+    padding-left:15px ;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: rgb(230, 228, 228);
+    border:none;
+    margin-bottom: 8px;
+}
+.enter{
+    display: block;
+    width:350px;
+    padding-left:15px ;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: rgb(230, 228, 228);
+    border:none;
+    margin-bottom: 8px;
+    margin-bottom: 30px;
+
+}
+.request{
+   padding-top: 12px;
+   padding-bottom: 12px;
+   padding-left: 20px;
+   padding-right: 20px;
+   color: white;
+   background-color: black;
+   border:none;
+   margin-right: 15px;
+}
+.later{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:rgb(233, 231, 231);
+    border:none;
+    margin-right: 15px;
+
+}

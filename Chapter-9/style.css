@@ -1,0 +1,171 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial;
+    
+}
+.image-1{
+    
+    background-color: rgba(12, 12, 165, 0.836);
+   
+}
+.image{
+    width:200vh;
+    margin-left:40px;
+    border-radius:6px;
+    object-fit: cover;
+    
+}
+.register-button{
+    background-color:  rgba(12, 12, 165, 0.836);
+}
+.location-img{
+    width:15px;
+    margin-left:100px;
+
+}
+.location{
+    color:rgb(247, 243, 243);
+    font-size: 13px;
+    
+    
+    
+    
+    
+}
+.para{
+    display:inline-block;
+    
+    
+}
+.button{
+    display:inline-block;
+    margin-left:100px;
+    margin-right: 100px;
+    color:white;
+   
+}
+.button-1{
+     background: linear-gradient(rgb(248, 11, 3),rgb(255, 238, 0));
+     padding-top:12px;
+     padding-bottom:12px;
+     padding-left:8px;
+     padding-right: 8px;
+     border: none;
+     border-radius: 8px;
+     color:white;
+     font-weight: bold;
+     cursor: pointer;
+    
+
+}
+.my-account{
+    display:inline-block;
+    margin-right:50px;
+    
+
+}
+.my-account a{
+    color:white;
+    text-decoration:none;
+    font-size: 13px;
+}
+.my-account a:hover{
+    color:orange;
+}
+.INR{
+    display:inline-block;
+
+}
+.INR a{
+    color:white;
+    text-decoration: none;
+    font-size: 13px;
+    cursor: pointer;
+}
+.INR a:hover{
+    color:orange;
+}
+.flag{
+    width:10px;
+    border-radius: 50px;
+}
+.register-button{
+    box-shadow: 5px 1px rgba(0, 0, 0, 0.15);
+    padding:10px;
+    border:0.15px solid rgb(65, 65, 219)
+}
+
+.search{
+    background-color: rgba(3, 19, 41, 0.932);
+    padding-top:20px;
+    padding-bottom:20px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.project-image{
+    display:inline-block;
+}
+.project-logo{
+    width:190px;
+    cursor: pointer;
+    margin-left:50px;
+
+}
+.search-bar{
+    display:inline-block;
+}
+.input-search{
+    background-color:white;
+    width:800px;
+    padding-top:15px;
+    padding-bottom:15px;
+    border-radius: 50px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:10px;
+    
+           
+}
+.my-cart{
+    display:inline-block;
+    margin-left:150px;
+
+}
+.my-cart-img{
+    width:40px;
+    
+    
+
+}
+.cart-word{
+    color:white;
+    font-size:12px;
+    cursor: pointer;
+    
+}
+.cart-word:hover{
+    color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

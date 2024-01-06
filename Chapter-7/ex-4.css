@@ -1,0 +1,53 @@
+.first{
+    width:150px;
+    padding:13px;
+    font-size: 16px;
+    border-radius: 10px;
+    border:1px solid gray;
+    
+
+}
+.last{
+    width:150px;
+    padding:13px;
+    font-size: 16px;
+    border-radius: 10px;
+    border:1px solid gray;
+    margin-bottom: 12px;
+   
+
+}
+.email{
+    width: 305px;
+    padding:13px;
+    font-size: 16px;
+    border-radius: 10px;
+    border:1px solid gray;
+    display: block;
+    margin-bottom: 12px;
+   
+
+}
+.sign{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    border:none;
+    background-color: rgb(12, 117, 223);
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+

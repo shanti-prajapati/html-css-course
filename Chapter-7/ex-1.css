@@ -1,0 +1,16 @@
+.name{
+    padding:4px;
+    font-size: 15px;
+    display: block;
+    border-radius: 3px;
+    border: 1px solid gray;
+    margin-bottom: 5px;
+}
+.email{
+    padding:4px;
+    font-size: 15px;
+    display: block;
+    border-radius: 3px;
+    border: 1px solid gray;
+
+}

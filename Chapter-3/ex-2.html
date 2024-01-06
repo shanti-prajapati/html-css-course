@@ -1,0 +1,87 @@
+<html lang="en">
+<head>
+    
+    <title>Hover/Transition/Shadows Demo</title>
+    <style>
+        .subscribe-button{
+            background-color:rgb(187, 6, 6);
+            color:white;
+            height:35px;
+            width:115px;
+            border:none;
+            border-radius:2px;
+            cursor: pointer;
+            margin: 8px;
+            transition: opacity 0.15s;
+        }
+
+        /*The hover example */
+        .subscribe-button:hover{
+            opacity: 0.8;
+
+        }
+        .subscribe-button:active{
+            opacity: 0.5;
+        }
+
+        .join-button{
+            background-color:white;
+            height:35px;
+            width:70px;
+            color:rgb(7, 146, 192);
+            border-color:rgb(7, 146, 192);
+            border-style: solid ;
+            border-width:1px;
+            border-radius:2px;
+            cursor: pointer;
+            margin:8px;
+            /*The transition example */
+            transition: background-color 0.15s,
+            color 0.15s;
+
+        }
+        .join-button:hover{
+            background-color:rgb(7, 146, 192) ;
+            color:white;
+        }
+        .join-button:active{
+            opacity: 0.7;
+
+        }
+        .tweet-button{
+            background-color:rgb(2,158,255);
+            color:white;
+            height:35px;
+            width:70px;
+            border:none;
+            border-radius:20px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 15px;
+            transition: box-shadow 0.15s;
+
+            /* The Shadow example */
+            /* box-shadow: 10px 10px 10px palevioletred; */
+           
+
+        }
+        .tweet-button:hover{
+            box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+
+        }
+    </style>
+   
+</head>
+<body>
+    <button class="subscribe-button">
+        SUBSCRIBE
+    </button>
+    <button class="join-button">
+        JOIN
+    </button>
+    <button class="tweet-button">
+        Tweet
+    </button>
+    
+</body>
+</html>
